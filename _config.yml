@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Nick Lormand
 tagline:          'A Jekyll theme'
 description:      'Welcome to my website!'
-url:              http://nicklormand.com
-baseurl:          /
+url:              nicklormand.com
+baseurl:          "/"
 
 author:
   name:           'Nick Lormand'

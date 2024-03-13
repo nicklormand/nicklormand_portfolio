@@ -11,11 +11,11 @@ title:            Nick Lormand
 tagline:          'A Jekyll theme'
 description:      'Welcome to my website!'
 url:              nicklormand.com
-baseurl:          ""
+baseurl:          /
 
 author:
   name:           'Nick Lormand'
-  url:            https://www.linkedin.com/in/nicholas-lormand-331414176
+  url:            #https://www.linkedin.com/in/nicholas-lormand-331414176
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:           
-  repo:           https://github.com/nicklormand/portfolio_hyde
+  repo:           #https://github.com/nicklormand/portfolio_hyde

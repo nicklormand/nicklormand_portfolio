@@ -10,7 +10,7 @@ title:            Nick Lormand
 tagline:          'A Jekyll theme'
 description:      'Welcome to my website!'
 url:              nicklormand.com
-baseurl:          /
+baseurl:          "/""
 
 author:
   name:           'Nick Lormand'

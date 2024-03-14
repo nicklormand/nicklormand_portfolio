@@ -4,8 +4,8 @@ title: Resume
 ---
 
 Nicholas John Lormand
-(936)-689-7736; nick.lormand@gmail.com
-Nicklormand.com
+(936)-689-7736
+nick.lormand@gmail.com
 
 ## EDUCATION
 The University of Texas at Dallas, Dec 2020

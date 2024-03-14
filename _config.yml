@@ -20,12 +20,6 @@ gems:                [jekyll-paginate]
 paginate:            1
 paginate_path:       page:num
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/nicklormand/nicklormand_portfolio
-
 collections:
   experience_posts:
     output: true
@@ -38,3 +32,9 @@ pagination:
   title: "Work Page"
   sort_field: 'date'
   sort_reverse: true
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/nicklormand/nicklormand_portfolio

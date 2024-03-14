@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to my site!
+published: false
 ---
 
 I started my career at DreamWorks Animation as a Technical Resource Administrator, or render wrangler for short, in 2021. The year after that in 2022, I moved on to become a Department Technical Director, working in pipeline development as well as short and feature animation support. 

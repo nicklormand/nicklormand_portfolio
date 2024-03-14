@@ -23,5 +23,5 @@ paginate_path:       "page:num"
 # Custom vars
 version:          2.1.0
 
-github:           
+github:
   repo:           https://github.com/nicklormand/portfolio_hyde

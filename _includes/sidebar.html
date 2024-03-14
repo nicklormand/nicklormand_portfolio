@@ -23,6 +23,9 @@
           {% if node.layout == "page" || node.layout == "work" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
+          {% if node.layout == "work" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
         {% endif %}
       {% endfor %}
       

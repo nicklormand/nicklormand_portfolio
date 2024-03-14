@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-categories: [experience_posts]
+categories: ["experience_posts"]
 #published: false
 
 ---

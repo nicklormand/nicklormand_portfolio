@@ -28,5 +28,13 @@ github:
 
 collections:
   experience_posts:
-  posts:
-
+    output: true
+    permalink: /work/:path/
+    
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/work/page/:num/'
+  title: "Work Page"
+  sort_field: 'date'
+  sort_reverse: true

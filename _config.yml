@@ -17,11 +17,11 @@ author:
   url:            https://www.linkedin.com/in/nicholas-lormand-331414176
 
 gems:                [jekyll-paginate]
-paginate:            5
+paginate:            1
 paginate_path:       page:num
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/nicklormand/portfolio_hyde
+  repo:           https://github.com/nicklormand/nicklormand_portfolio

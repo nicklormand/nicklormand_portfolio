@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Nick Lormand
 tagline:          'Nick Lormand's professional portfolio'
 description:      'Welcome to my website!'
-url:              nicklormand.com
+url:              https://nicklormand.com
 baseurl:          /
 
 author:

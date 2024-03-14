@@ -3,28 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I started my career at DreamWorks Animation as a Technical Resource Administrator, or render wrangler for short, in 2021. The year after that in 2022, I moved on to become a Department Technical Director, working in pipeline development as well as short and feature animation support. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I've worked in production on such films as Trolls Band Together, Kung Fu Panda 4, The Wildroboot, and supported others as a render wrangler such as The Bad Guys, Boss Baby 2, and Puss in Boots: The Last Wish. I have a Bachelor of Arts in Arts, Technology, and Emerging Communication with a minor in Computer Science from The University of Texas at Dallas. (Go Comets!)
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I've developed tools for third-party programs such as Maya and Houdini and proprietary programs at DreamWorks such as Premo.  Languages I've used have been Python (with PyQt/PySide), C/C++, Javascript, and USD.
 
 Thanks for reading!

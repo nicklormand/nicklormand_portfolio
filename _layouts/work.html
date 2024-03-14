@@ -24,8 +24,7 @@ layout: default
     {% endfor %}
   </div>
   
-  <div class="pagination">
-    {% if paginator.total_pages > 1 %}
+  {% if paginator.total_pages > 1 %}
     <div class="pagination">
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path }}" class="prev">Previous</a>
@@ -34,9 +33,7 @@ layout: default
         <a href="{{ paginator.next_page_path }}" class="next">Next</a>
       {% endif %}
     </div>
-    {% endif %}
-  </div>
+  {% endif %}
 </div>
-
 
 

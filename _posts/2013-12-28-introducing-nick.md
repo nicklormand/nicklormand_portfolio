@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Welcome to my site!
+title: Welcome to my portfolio!
 ---
 
-I've recently been told I will likely be laid off from DreamWorks due to lack of projects and scheduling, so I took some time to rebuild my website and do a full rebrand! 
-
-Stay tuned for more posts of my past work from college and my recent work from DreamWorks!
-
+Hello! I'm Nick, a Technical Director at DreamWorks Animation. 
+I've been working in the animation industry for about 4 years, 
+and I've been lucky enough to work on some amazing projects. In my portfolio,
+you can find some of the work I've done over the years from Dreamworks as well
+as some personal projects I've worked on going back to my time at the University
+Texas at Dallas. Find more about me on the [about](/about) page.
